@@ -7,6 +7,29 @@ GIT wiki will be used for documentation.
 Different levels will be in sub branches such as Mockito-1, Mockito-2 etc.
 
 
+### Accessing tutorials 
+You can access each tutorial by switching to its respective branch. To do so, you can use your terminal/Git bash. 
+
+1. First change the directory to the root of this repository  
+
+```ssh
+cd </path/to/tutorials/directory>  
+```
+
+2. Switch the desired branch. For example, to checkout to "springboot_unit1_1_helloworld", use the following command. 
+
+```ssh
+git checkout springboot_unit1_1_helloworld
+```
+
+This should switch the code to the "springboot_unit1_1_helloworld" tutorial. For complete list of topics, check the section "Topics" below.
+
+
+
+
+
+## Topics 
+
 **NAMING FORMAT:** 
 *  \<area/topic\>\_unit<#>\_\<\#\>\_\<name\>    `This should be followed by a short description`
 *  Example: springboot_unit1_2_helloworld   `simple helloworld example.`
@@ -14,7 +37,7 @@ Different levels will be in sub branches such as Mockito-1, Mockito-2 etc.
  <br/>
  
 
-**SPRINGBOOT**  
+### Springboot  
 *UNIT-1*
 *  [springboot_unit1_1_helloworld](https://git.las.iastate.edu/cs309/tutorials/-/tree/springboot_unit1_1_helloworld) `Getting started with SpringBoot`
 *  [springboot_unit1_1_basicrequest](https://git.las.iastate.edu/cs309/tutorials/-/tree/springboot_unit1_1_basicrequest) `Example to create simple GET, POST, PUT and DELETE APIs`
@@ -41,7 +64,7 @@ Different levels will be in sub branches such as Mockito-1, Mockito-2 etc.
 *UNIT-4*
 * [unit4_1_websockets](https://git.las.iastate.edu/cs309/tutorials/-/tree/unit4_1_websockets)
 
-**Android**  
+### Android 
 *UNIT-1*
 * [android_unit1_1_two_screen_counter](https://git.las.iastate.edu/cs309/tutorials/-/tree/android_unit1_1_two_screen_counter) `simple two screen application for Android kickstart`
 
@@ -65,13 +88,13 @@ Different levels will be in sub branches such as Mockito-1, Mockito-2 etc.
 *MISC*
 * [android_tutorials_master](https://git.las.iastate.edu/cs309/tutorials/tree/android_tutorials_master) `Docs for Volley, CI/CD, Mockito and websocket`
 
+### Testing: Mockito backend and Frontend
 
-**TESTING - Mockito backend and Frontend**
 *  [testing](https://git.las.iastate.edu/cs309/tutorials/tree/testing) `Examples to test the backend and the front end using mockito`
 *  [springboot_unit3_4_mockito_testing](https://git.las.iastate.edu/cs309/tutorials/tree/springboot_unit3_4_mockito_testing) `Example code to test a springboot application with mockito`
 *  [android_unit3_2_service_and_singleton](https://git.las.iastate.edu/cs309/tutorials/tree/android_unit3_2_service_and_singleton) `Example code to test an android application with mockito. UPDATE: updated java to 11, gradle to 7.0.3, junit versions changed, tests fixed to work now with the latest version of Android Studio`
 
-**WEBSOCKETS**
+### Websockets 
 *  [unit4_1_websockets](https://git.las.iastate.edu/cs309/tutorials/tree/unit4_1_websockets)
 
 
