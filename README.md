@@ -70,7 +70,7 @@ This should switch the code to the "springboot_unit1_1_helloworld" tutorial. For
 
 *UNIT-2*
 * [android_unit2_1_volley](https://git.las.iastate.edu/cs309/tutorials/tree/android_unit2_1_volley) `example for: image / string / json  request calls`
-* [android_unit2_2_volley](https://git.las.iastate.edu/cs309/tutorials/tree/android_unit2_2_volley) `tutorials (docs) for string / json  request calls `
+* [android_unit2_2_volley](https://git.las.iastate.edu/cs309/tutorials/tree/android_unit2_2_volley) `more examples for image / json request calls `
 * [android_unit2_3_designpattern](https://git.las.iastate.edu/cs309/tutorials/tree/android_unit2_3_designpattern) `MVC, Interfaces`
 * [android_unit3_2_service_and_singleton](https://git.las.iastate.edu/cs309/tutorials/tree/android_unit3_2_service_and_singleton) `Example to Create a singleton class for request queue, and a listner for responses`
 *  [RoundTrip_(with_retrofit2_and_h2)](https://git.las.iastate.edu/cs309/tutorials/-/tree/RoundTrip_(with_retrofit2_and_h2)) `Uses Retrofit2 to load all the Trivias and posts new trivias by json body and path. Video link: https://youtu.be/eUPFmgp6FKk`
