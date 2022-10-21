@@ -98,6 +98,9 @@ This should switch the code to the "springboot_unit1_1_helloworld" tutorial. For
 *  [unit4_1_websockets](https://git.las.iastate.edu/cs309/tutorials/tree/unit4_1_websockets)
 
 
+### CI/CD Pipeline 
+*  [cicd_example](https://git.las.iastate.edu/cs309/tutorials/-/tree/cicd_example)
+
 **DESIGN**
 *  godclass
 *  designPatterns
