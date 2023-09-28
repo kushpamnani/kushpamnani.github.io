@@ -30,7 +30,10 @@ This should switch the local repository to the "springboot_unit1_1_helloworld" b
 
 ---
 
-## <p align="center">Topics</p>
+<div align="center">
+
+# Topics
+</div>
 
 
 ### :book: UNIT-1
