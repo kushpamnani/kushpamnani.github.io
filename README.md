@@ -39,7 +39,9 @@ This should switch the local repository to the "springboot_unit1_1_helloworld" b
  * [unit1_setup_guide](https://git.las.iastate.edu/cs309/tutorials/) `| Android Studio | IntelliJ | Postman |`
 
 └── **Frontend**
-* [android_unit1_1_two_screen_counter](https://git.las.iastate.edu/cs309/tutorials/-/tree/android_unit1_1_two_screen_counter) `simple two screen application for Android kickstart`
+* [android_unit1_1_helloworld](https://git.las.iastate.edu/cs309/tutorials/-/tree/android_unit1_1_helloworld) `A "hello world" example for testing environment setup`
+* [android_unit1_2_intent](https://git.las.iastate.edu/cs309/tutorials/-/tree/android_unit1_2_intent) `A "counter" example for toying with intent (switch between activities)`
+* [android_unit1_3_login_signup](https://git.las.iastate.edu/cs309/tutorials/-/tree/android_unit1_3_login_signup) `A "login & signup" example. Only an example of the interface`
 
 └── **Backend**
 *  [springboot_unit1_1_helloworld](https://git.las.iastate.edu/cs309/tutorials/-/tree/springboot_unit1_1_helloworld) `Getting started with SpringBoot`
