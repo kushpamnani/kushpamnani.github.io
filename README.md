@@ -57,11 +57,9 @@ This should switch the local repository to the "springboot_unit1_1_helloworld" b
  * [unit2_setup_guide](https://git.las.iastate.edu/cs309/tutorials/) `| MySQL | Server |`
 
 └── **Frontend**
-* [android_unit2_1_volley](https://git.las.iastate.edu/cs309/tutorials/tree/android_unit2_1_volley) `example for: image / string / json  request calls`
-* [android_unit2_2_volley](https://git.las.iastate.edu/cs309/tutorials/tree/android_unit2_2_volley) `more examples for image / json request calls `
-* [android_unit2_3_designpattern](https://git.las.iastate.edu/cs309/tutorials/tree/android_unit2_3_designpattern) `MVC, Interfaces`
-* [android_unit2_4_Phase 1,2,3,4](https://git.las.iastate.edu/cs309/tutorials/tree/android_unit2_4_phases) `Example to send requests using volley(to simple URL, JSON response, and Image)`
-* [android_unit3_2_service_and_singleton](https://git.las.iastate.edu/cs309/tutorials/tree/android_unit3_2_service_and_singleton) `Example to Create a singleton class for request queue, and a listner for responses`
+* [android_unit2_1_volley](https://git.las.iastate.edu/cs309/tutorials/tree/android_unit2_1_volley) `example for: string / jsonObj / jsonArray / image  request calls`
+* [android_unit2_2_volley](https://git.las.iastate.edu/cs309/tutorials/tree/android_unit2_2_volley) `example for: jsonObj / jsonArray request calls with data parsed into TextView and ListView`
+* [android_unit2_3_volley](https://git.las.iastate.edu/cs309/tutorials/-/tree/android_unit2_3_volley) `example for: string GET / jsonObj POST request calls`
 *  [RoundTrip_(with_retrofit2_and_h2)](https://git.las.iastate.edu/cs309/tutorials/-/tree/RoundTrip_(with_retrofit2_and_h2)) `Uses Retrofit2 to load all the Trivias and posts new trivias by json body and path. Video link: https://youtu.be/eUPFmgp6FKk`
 
 └── **Backend**
@@ -106,6 +104,8 @@ This should switch the local repository to the "springboot_unit1_1_helloworld" b
 ---
 
 ### Legacy
+* [android_unit2_4_Phase 1,2,3,4](https://git.las.iastate.edu/cs309/tutorials/tree/android_unit2_4_phases) `Example to send requests using volley(to simple URL, JSON response, and Image)`
+* [android_unit3_2_service_and_singleton](https://git.las.iastate.edu/cs309/tutorials/tree/android_unit3_2_service_and_singleton) `Example to Create a singleton class for request queue, and a listner for responses`
 *  [springboot_unit3_4_mockito_testing](https://git.las.iastate.edu/cs309/tutorials/-/tree/springboot_unit3_4_mockito_testing)
 
 * [android_unit3_1_mockito_testing](https://git.las.iastate.edu/cs309/tutorials/tree/android_unit3_1_mockito_testing) `Example to test android code with Mockito. UPDATE: Updated java to 11, gradle to 7.0.3, android sdk to 30 and fixed mockito dependencies - should work now`
