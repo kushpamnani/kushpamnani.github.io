@@ -47,5 +47,5 @@ Read the Websockets.pdf to understand the inner workings of the frontend and bac
 
 |IntelliJ  | Project SDK | Springboot | Maven |
 |----------|-------------|------------|-------|
-|2021.2.4  |     11      | 2.4.0      | 3.6.3 |
+|2021.2.4  |     11      | 3.1.4      | 3.6.3 |
 
