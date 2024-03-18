@@ -7,43 +7,30 @@
     android:layout_width="match_parent"
     android:orientation="vertical">
 
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="Server URL (default to):"/>
+
+    <EditText
+        android:layout_height="50dp"
+        android:layout_width="match_parent"
+        android:text="ws://10.0.2.2:8080/chat/"
+        android:textSize="20dp"
+        android:id="@+id/serverEdt" />
     <EditText
         android:layout_marginTop="20dp"
         android:layout_height="50dp"
         android:layout_width="match_parent"
         android:hint="username"
         android:textSize="20dp"
-        android:id="@+id/et1" />
+        android:id="@+id/unameEdt" />
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
         android:text="Connect"
-        android:id="@+id/bt1" />
-    <EditText
-        android:layout_height="50dp"
-        android:layout_width="match_parent"
-        android:hint="message"
-        android:textSize="20dp"
-        android:id="@+id/et2" />
-    <Button
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Send"
-        android:id="@+id/bt2" />
-
-    <ScrollView
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content">
-
-        <TextView
-            android:id="@+id/tx1"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_marginTop="10dp"
-            android:text="The Coversation will appear here:\n"
-            android:textSize="20dp" />
-
-    </ScrollView>
-
+        android:id="@+id/connectBtn" />
 
 </androidx.appcompat.widget.LinearLayoutCompat>
