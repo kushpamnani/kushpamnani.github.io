@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/mr2_8/Backend/ComS309Tables/pom.xml" />
+        <option value="$PROJECT_DIR$/mr2_8/Experiments/Dalton_Clark/exp1/pom.xml" />
+        <option value="$PROJECT_DIR$/mr2_8/Experiments/Dalton_Clark/exp2/pom.xml" />
+        <option value="$PROJECT_DIR$/mr2_8/Experiments/Dalton_Clark/exp3/pom.xml" />
+        <option value="$PROJECT_DIR$/mr2_8/Experiments/Dalton_Clark/exp4/springboot_example/pom.xml" />
+        <option value="$PROJECT_DIR$/mr2_8/Experiments/Dalton_Clark/exp5/springboot_example/pom.xml" />
+        <option value="$PROJECT_DIR$/mr2_8/Experiments/Kush Pamnani/Experiment 1/hellopeople/pom.xml" />
+        <option value="$PROJECT_DIR$/mr2_8/Experiments/Kush Pamnani/Experiment 2/helloworld/pom.xml" />
+        <option value="$PROJECT_DIR$/mr2_8/Experiments/Kush Pamnani/Experiment 3/hellopeople/pom.xml" />
+        <option value="$PROJECT_DIR$/mr2_8/Experiments/Kush Pamnani/Experiment 4/springboot_example/pom.xml" />
+        <option value="$PROJECT_DIR$/mr2_8/Experiments/Kush Pamnani/Experiment 5/springboot_example/pom.xml" />
+        <option value="$PROJECT_DIR$/mr2_8/Experiments/Alex_Flaharty/tutorials-unit3_1_websockets/WebSocketSpringboot/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_21" project-jdk-name="21" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

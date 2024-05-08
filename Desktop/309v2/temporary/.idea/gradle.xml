@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/mr2_8/Experiments/Alex_Flaharty/Experment 1/AndroidExample" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/mr2_8/Experiments/Alex_Flaharty/Experment 1/AndroidExample" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/mr2_8/Experiments/Alex_Flaharty/tutorials-unit3_1_websockets/WebSocketAndorid" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/mr2_8/Experiments/Alex_Flaharty/tutorials-unit3_1_websockets/WebSocketAndorid" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/mr2_8/Experiments/Noel_Binns/Demo2Work/AndroidExample" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/mr2_8/Experiments/Noel_Binns/Demo2Work/AndroidExample" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/mr2_8/Experiments/Noel_Binns/MenuExperiment/AndroidExample" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/mr2_8/Experiments/Noel_Binns/MenuExperiment/AndroidExample" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/mr2_8/Experiments/Noel_Binns/NBexperiment1/AndroidExample" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/mr2_8/Experiments/Noel_Binns/NBexperiment1/AndroidExample" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/mr2_8/Experiments/Noel_Binns/NBexperiment2/AndroidTest2" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/mr2_8/Experiments/Noel_Binns/NBexperiment2/AndroidTest2" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/mr2_8/Experiments/Noel_Binns/NBexperiment3/AndroidTest3" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/mr2_8/Experiments/Noel_Binns/NBexperiment3/AndroidTest3" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/mr2_8/Frontend/AndroidExample" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/mr2_8/Frontend/AndroidExample" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
